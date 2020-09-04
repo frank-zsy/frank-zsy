@@ -10,5 +10,6 @@ I'm an open source enthusiast, interested in development tools and Node.js.
   - [X-lab2017/github-analysis-report-2020](https://github.com/X-lab2017/github-analysis-report-2020)
   - [X-lab2017/github-analysis-report-2019](https://github.com/X-lab2017/github-analysis-report-2019)
   - [alibaba/collabobot](https://github.com/alibaba/collabobot)
+- 👉 Blog: [personal blog](http://blog.frankzhao.cn/)
 - 💬 WeChat: `18513109194`
 - 📫 Ping me by [Email](mailto:syzhao1988@126.com)
