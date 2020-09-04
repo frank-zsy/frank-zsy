@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=frank-zsy&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-<!--
-**frank-zsy/frank-zsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an open source enthusiast, interested in development tools and Node.js.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m a Ph.D student at Tongji University, majoring in Computer Science and Technology. 
+- 🏗 Focus on open source collaboration automation and data analysis.
+- ⚡ Main projects: 
+  - [hypertrons/hypertrons](https://github.com/hypertrons/hypertrons)
+  - [wuhan2020/wuhan2020](https://github.com/wuhan2020/wuhan2020)
+  - [X-lab2017/github-analysis-report-2020](https://github.com/X-lab2017/github-analysis-report-2020)
+  - [X-lab2017/github-analysis-report-2019](https://github.com/X-lab2017/github-analysis-report-2019)
+  - [alibaba/collabobot](https://github.com/alibaba/collabobot)
+- 💬 WeChat: `18513109194`
+- 📫 Ping me by [Email](mailto:syzhao1988@126.com)
