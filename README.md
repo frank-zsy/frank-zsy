@@ -1,5 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=frank-zsy&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
+<img src="http://blog.frankzhao.cn/hacking_hero_2021/frank-zsy.svg" />
+
 I'm an open source enthusiast, interested in development tools and Node.js.
 
 - 🌱 I’m a Ph.D student at Tongji University, majoring in Computer Science and Technology. 
