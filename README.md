@@ -2,7 +2,7 @@
 
 I'm an open source enthusiast, interested in development tools and Node.js.
 
-- 🌱 I’m a Ph.D student at Tongji University, majoring in Computer Science and Technology. 
+- 🌱 Founder of OpenShare, holding a Ph.D. in Computer Science from Tongji University, and am an alumnus of Tsinghua University and Peking University.
 - 🏗 Focus on open source collaboration automation and data analysis.
 - ⚡ Main projects: 
   - [X-lab2017/open-digger](https://github.com/X-lab2017/open-digger)
@@ -12,4 +12,4 @@ I'm an open source enthusiast, interested in development tools and Node.js.
   - [alibaba/collabobot](https://github.com/alibaba/collabobot)
 - 👉 Blog: [personal blog](http://blog.frankzhao.cn/)
 - 💬 WeChat: `frank_zhaosy`
-- 📫 Ping me by [Email](mailto:syzhao1988@126.com)
+- 📫 Ping me by [Email](mailto:frank@open-share.cn)
