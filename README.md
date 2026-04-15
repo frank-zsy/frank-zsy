@@ -5,7 +5,7 @@ I'm an open source enthusiast, interested in development tools and Node.js.
 - 🌱 Founder of OpenShare, holding a Ph.D. in Computer Science from Tongji University, and am an alumnus of Tsinghua University and Peking University.
 - 🏗 Focus on open source collaboration automation and data analysis.
 - ⚡ Main projects: 
-  - [X-lab2017/open-digger](https://github.com/X-lab2017/open-digger)
+  - [OpenDigger](https://open-digger.cn) [X-lab2017/open-digger](https://github.com/X-lab2017/open-digger)
   - [hypertrons/hypertrons](https://github.com/hypertrons/hypertrons)
   - [wuhan2020/wuhan2020](https://github.com/wuhan2020/wuhan2020)
   - [X-lab2017/github-analysis-report-2019](https://github.com/X-lab2017/github-analysis-report-2019)
