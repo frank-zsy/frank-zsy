@@ -10,4 +10,4 @@ I'm an open source enthusiast, interested in development tools and Node.js.
   - [alibaba/collabobot](https://github.com/alibaba/collabobot)
 - 👉 Blog: [personal blog](http://blog.frankzhao.cn/)
 - 💬 WeChat: `frank_zhaosy`
-- 📫 Ping me by [Email](mailto:frank@open-share.cn)
+- 📫 Ping me by [Email](mailto:frank@open-share.com)
